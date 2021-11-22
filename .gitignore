@@ -13,6 +13,8 @@ dataset.csv
 dist
 Dockerfile.mlrun-test-nb
 docs/_build
+docs/_build-2
+docs/_build-3
 docs/external/*.html
 docs/external/*.md
 iteration_results.csv
