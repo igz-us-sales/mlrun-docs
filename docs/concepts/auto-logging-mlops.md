@@ -31,9 +31,9 @@ package &mdash; a collection of commonly used machine and deep learning framewor
 
 `apply_mlrun` can be used with its default settings, but it is highly flexible and rich with different options and 
 configurations. Reading the docs of your favorite framework to get the most out of MLRun:
-- [SciKit-Learn](https://docs.mlrun.org/en/latest/api/mlrun.frameworks/mlrun.frameworks.sklearn.html)
-- [TensorFlow (and Keras)](https://docs.mlrun.org/en/latest/api/mlrun.frameworks/mlrun.frameworks.tf_keras.html)
-- [PyTorch](https://docs.mlrun.org/en/latest/api/mlrun.frameworks/mlrun.frameworks.pytorch.html) 
-- [XGBoost](https://docs.mlrun.org/en/latest/api/mlrun.frameworks/mlrun.frameworks.xgboost.html) 
-- [LightGBM](https://docs.mlrun.org/en/latest/api/mlrun.frameworks/mlrun.frameworks.lgbm.html) 
-- [ONNX](https://docs.mlrun.org/en/latest/api/mlrun.frameworks/mlrun.frameworks.onnx.html)
+- [SciKit-Learn](../api/mlrun.frameworks/mlrun.frameworks.sklearn.html)
+- [TensorFlow (and Keras)](../api/mlrun.frameworks/mlrun.frameworks.tf_keras.html)
+- [PyTorch](../api/mlrun.frameworks/mlrun.frameworks.pytorch.html) 
+- [XGBoost](../api/mlrun.frameworks/mlrun.frameworks.xgboost.html) 
+- [LightGBM](../api/mlrun.frameworks/mlrun.frameworks.lgbm.html) 
+- [ONNX](../api/mlrun.frameworks/mlrun.frameworks.onnx.html)
